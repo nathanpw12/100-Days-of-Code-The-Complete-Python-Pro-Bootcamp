@@ -5,3 +5,5 @@ people = int(input("How many people to split the bill? "))
 total = ((bill / people) * (tip / 100 + 1) )
 print(f"Each person should pay: ${round(total, 2)} ")
 
+# teste
+
