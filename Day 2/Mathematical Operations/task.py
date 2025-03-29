@@ -18,7 +18,7 @@ print(5 /3) # é igual 1.6666
 
 print(6 // 3) # sempre retorna com int, mesmo se for um float, ele removerá as casas
                                                           # decimais dps do int
-print(6 // 3) # é igual a 1
+print(5 // 3) # é igual a 1
 
 ###### ORDEM DAS OPERAÇÕES - PEMDAS ######
 
